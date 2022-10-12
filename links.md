@@ -1,5 +1,6 @@
-# add links in th following format
+# add links in the following format
 
-[name ](url)
-example
+*[name ](url)
+
+*example
 [Chinmay Kotkar](https://github.com/Chinmay-03)
