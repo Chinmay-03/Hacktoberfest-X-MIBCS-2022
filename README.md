@@ -1,17 +1,22 @@
 # Hactoberfest-X-MIBCS-2022
-Hactoberfest X MIBCS 2022 is a repository for students to contribute to open source projects within the campus
+### Hactoberfest X MIBCS 2022 is a repository for students to contribute to open source projects within the campus or any on the internet
+
 ![Screenshot 2022-10-09 075320](https://user-images.githubusercontent.com/102941004/194735008-3360e382-b7c2-492c-8013-b8aa62b456c1.png) 
-![mibcs](https://user-images.githubusercontent.com/102941004/194735712-1b18214c-a933-4a52-bde6-9953c0214e02.jpg)
+
 
 ## 🏗 Contribution Guidelines 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! 
 
-### Prerequisites
-The minimum requirement of PHP is 5.4 or newer. You can go through the PHP installation <a href="https://www.php.net/manual/en/install.php">manual.</a>
+## Ask doubts in the Discussion Forum
 
 ### Contribution Guide
+ **Either edit the code on github by clicking the pen icon or maybe adding your files via upload or follow the steps below** 
+ 
+ 
+ ## OR
+
 
 **1.**  Fork [this](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022) repository.
 
@@ -79,3 +84,5 @@ git push -u origin <your_branch_name>
 
 
 **15.** Voilà! You have made a PR to Originals. Wait for your submission to be accepted and your PR to be merged.
+
+![mibcs](https://user-images.githubusercontent.com/102941004/194735712-1b18214c-a933-4a52-bde6-9953c0214e02.jpg)
