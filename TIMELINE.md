@@ -13,5 +13,9 @@
 ##### 2.a) - Include a few sentences introducing yourself in aboutme.md
 ##### 2.b) - Add any one program via upload or git push
 
+## you can take help of these links on learning how to contribute
+### 1. [First Contributions on Github](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
+### 2. [MIBCS HACKTOBERFEST README](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/README.md)
+
 ### Note 
 A single PR must contain all of the sub-tasks from a task; otherwise, the PR will be closed.
