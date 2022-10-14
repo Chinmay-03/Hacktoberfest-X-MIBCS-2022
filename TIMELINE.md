@@ -7,7 +7,7 @@
 
 ## Task 1
 ##### 1.a) - Add your name to [Contributors.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/contributors.md)
-##### 1.b) - Add your favorite quote in quote.json
+##### 1.b) - Add your favorite quote in [Quotes.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Quotes.json)
 
 ## Task 2
 ##### 2.a) - Include a few sentences introducing yourself in aboutme.md
