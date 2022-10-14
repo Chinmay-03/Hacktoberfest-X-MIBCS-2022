@@ -1,7 +1,5 @@
 {
   "thought / Quotes ": [
-    
-     
     {
       "Role Model": "Mahatma Gandhi",
       "Quotes": "When restraint and courtesy are added to strength, the latter becomes irresistible"
@@ -9,7 +7,8 @@
     {
       "Role Model": "Swami Vivekanand",
       "Quotes": "The greatest religion is to be true to your own nature. Have faith in yourselves."
-    },{
+    },
+    {
       "Role Model": "A. P. J. Abdul Kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
     },
@@ -77,30 +76,37 @@
       "Role Model": "Evelyn Scott",
       "Quotes": "It is impossible to control creation."
     },
-  {
+    {
       "Role Model": "Bradley Cooper",
       "Quotes": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
     },
- {
-       "Role Model": "sant Gadbe baba ",
-       "Quotes":"Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
-  }, 
-  {
-    "Role Model": "Lt. Gen. George S. Patton",
-    "Quotes":"Say what you mean and mean what you say."
-  },
-  {
-    "Role Model":" Soren Kierkegaard" ,
-    "Quotes":"Life is not a problem to be solved, but a reality to be experienced."
-},
-{
-    "Role Model": "Steven Adler",
-    "Quotes": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
-  },
-{
-    "Role Model": "Steve Jobs",
-    "Quotes": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
-  }
-]
+    {
+      "Role Model": "sant Gadbe baba ",
+      "Quotes": "Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
+    },
+    {
+      "Role Model": "Lt. Gen. George S. Patton",
+      "Quotes": "Say what you mean and mean what you say."
+    },
+    {
+      "Role Model": " Soren Kierkegaard",
+      "Quotes": "Life is not a problem to be solved, but a reality to be experienced."
+    },
+    {
+      "Role Model": "Steven Adler",
+      "Quotes": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
+    },
+    {
+      "Role Model": "Steve Jobs",
+      "Quotes": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
+    },
+    {
+      "Role Model": "Thomas A. Edison",
+      "Quotes": "Many of life’s failures are people who did not realize how close they were to success when they gave up."
+    },
+    {
+      "Role Model": "Steve Jobs",
+      "Quotes": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking."
+    }
+  ]
 }
-
