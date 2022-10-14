@@ -101,9 +101,7 @@
     "Quotee": "Steve Jobs",
     "Quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
   },
-    
-    {
-    "Quotee": "Swami vivekananda",
+   "Quotee": "Swami vivekananda",
     "Quote": "In a conflict between the heart and the brain, follow your heart. "
   },
     
@@ -111,5 +109,19 @@
       "Quotee": "Keshi",
       "Quote": "Square up I'm the mightiest, myself in the fight."
     }
+    "Quotee": "Swami vivekananda",
+    "Quotes": "In a conflict between the heart and the brain, follow your heart. "
+  },
+    {
+    "Quotee": "Dau Voire",
+    "Quotes": "I’m very picky with whom I give my energy to. I prefer to reserve my time, intensity and spirit exclusively to those who reflect sincerity. "
+  }
+  {
+      "Quotee": "Keshi",
+      "Quote": "Square up I'm the mightiest, myself in the fight."
+    }
+    
+    {
+
 ]
 }
