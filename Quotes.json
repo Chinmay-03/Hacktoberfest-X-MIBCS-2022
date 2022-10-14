@@ -1,7 +1,5 @@
 {
   "thought / Quote ": [
-    
-     
     {
       "Quotee": "Mahatma Gandhi",
       "Quote": "When restraint and courtesy are added to strength, the latter becomes irresistible"
@@ -9,7 +7,8 @@
     {
       "Quotee": "Swami Vivekanand",
       "Quote": "The greatest religion is to be true to your own nature. Have faith in yourselves."
-    },{
+    },
+    {
       "Quotee": "A. P. J. Abdul Kalam",
       "Quote": "If you want to shine like a sun, first burn like a sun."
     },
@@ -77,38 +76,41 @@
       "Quotee": "Evelyn Scott",
       "Quote": "It is impossible to control creation."
     },
-  {
+    {
       "Quotee": "Bradley Cooper",
       "Quote": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
     },
- {
-       "Quotee": "sant Gadbe baba ",
-       "Quote":"Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
-  }, 
-  {
-    "Quotee": "Lt. Gen. George S. Patton",
-    "Quote":"Say what you mean and mean what you say."
-  },
-  {
-    "Quotee":" Soren Kierkegaard" ,
-    "Quote":"Life is not a problem to be solved, but a reality to be experienced."
-},
-{
-    "Quotee": "Steven Adler",
-    "Quote": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
-  },
-{
-    "Quotee": "Steve Jobs",
-    "Quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
-  },
-   "Quotee": "Swami vivekananda",
-    "Quote": "In a conflict between the heart and the brain, follow your heart. "
-  },
-    
+    {
+      "Quotee": "sant Gadbe baba ",
+      "Quote": "Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
+    },
+    {
+      "Quotee": "Lt. Gen. George S. Patton",
+      "Quote": "Say what you mean and mean what you say."
+    },
+    {
+      "Quotee": " Soren Kierkegaard",
+      "Quote": "Life is not a problem to be solved, but a reality to be experienced."
+    },
+    {
+      "Quotee": "Steven Adler",
+      "Quote": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
+    },
+    {
+      "Quotee": "Steve Jobs",
+      "Quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
+    },
+    {
+      "Quotee": "Swami vivekananda",
+      "Quote": "In a conflict between the heart and the brain, follow your heart. "
+    },
     {
       "Quotee": "Keshi",
       "Quote": "Square up I'm the mightiest, myself in the fight."
+    },
+    {
+      "Quotee": "Humayun Ahmed",
+      "Quote": "Waiting is a sign of pure love. Everyone can say “I Love You”. But not everyone can prove that love by waiting!"
     }
-
-]
+  ]
 }
