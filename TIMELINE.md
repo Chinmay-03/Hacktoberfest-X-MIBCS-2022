@@ -10,8 +10,8 @@
 ##### 1.b) - Add your favorite quote in [Quotes.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Quotes.json)
 
 ## Task 2
-##### 2.a) - Include a few sentences introducing yourself in aboutme.md
-##### 2.b) - Add any one program via upload or git push
+##### 2.a) - Include a few sentences introducing yourself in [Aboutme.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Aboutme.json)
+##### 2.b) - Add any one program via upload or git push in [uploads](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/tree/main/Uploads)
 
 ## you can take help of these links on learning how to contribute
 ### 1. [First Contributions on Github](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
