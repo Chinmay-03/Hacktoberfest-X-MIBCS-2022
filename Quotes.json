@@ -1,7 +1,5 @@
 {
   "thought / Quote ": [
-    
-     
     {
       "Quotee": "Mahatma Gandhi",
       "Quote": "When restraint and courtesy are added to strength, the latter becomes irresistible"
@@ -9,7 +7,8 @@
     {
       "Quotee": "Swami Vivekanand",
       "Quote": "The greatest religion is to be true to your own nature. Have faith in yourselves."
-    },{
+    },
+    {
       "Quotee": "A. P. J. Abdul Kalam",
       "Quote": "If you want to shine like a sun, first burn like a sun."
     },
@@ -77,62 +76,66 @@
       "Quotee": "Evelyn Scott",
       "Quote": "It is impossible to control creation."
     },
-  {
+    {
       "Quotee": "Bradley Cooper",
       "Quote": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
     },
- {
-       "Quotee": "sant Gadbe baba ",
-       "Quote":"Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
-  }, 
-  {
-    "Quotee": "Lt. Gen. George S. Patton",
-    "Quote":"Say what you mean and mean what you say."
-  },
-  {
-    "Quotee":" Soren Kierkegaard" ,
-    "Quote":"Life is not a problem to be solved, but a reality to be experienced."
-},
-{
-    "Quotee": "Steven Adler",
-    "Quote": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
-  },
-{
-    "Quotee": "Steve Jobs",
-    "Quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
-  },
-   "Quotee": "Swami vivekananda",
-    "Quote": "In a conflict between the heart and the brain, follow your heart. "
-  },
-    
+    {
+      "Quotee": "sant Gadbe baba ",
+      "Quote": "Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
+    },
+    {
+      "Quotee": "Lt. Gen. George S. Patton",
+      "Quote": "Say what you mean and mean what you say."
+    },
+    {
+      "Quotee": " Soren Kierkegaard",
+      "Quote": "Life is not a problem to be solved, but a reality to be experienced."
+    },
+    {
+      "Quotee": "Steven Adler",
+      "Quote": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
+    },
+    {
+      "Quotee": "Steve Jobs",
+      "Quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
+    },
+    {
+      "Quotee": "Swami vivekananda",
+      "Quote": "In a conflict between the heart and the brain, follow your heart. "
+    },
     {
       "Quotee": "Keshi",
       "Quote": "Square up I'm the mightiest, myself in the fight."
     },
     {
-       "Role Model": "Stephen Chbosky, The Perks of Being a Wallflower",
-      "Quotes": "We accept the love we think we deserve. "
-    },
-    {
-      "Role Model": "Alex Michaelides, The Silent Patient",
-      "Quotes": "There’s so much pain everywhere, and we just close our eyes to it. The truth is we’re all scared. We’re terrified of each other."
-    },
-    {
-      "Role Model": "Orochimaru , Naruto",
-      "Quotes": "IT’S HUMAN NATURE NOT TO REALIZE THE TRUE VALUE OF SOMETHING, UNLESS THEY LOSE IT."
-    },
-    {
-      "Role Model": "Pain , Naruto",
-      "Quotes": "If You Don’t Share Someone’s Pain, You Can Never Understand Them. "
-    },
-    {
-      "Role Model": "Andy Dufresne",
-      "Quotes": "Hope is a good thing, maybe the best of things, and no good thing ever dies. "
-    },
-    {
-      "Role Model": "Madara Uchiha",
-      "Quotes": "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist. In this world, wherever there is light - there are also shadows. As long as the concept of winners exists, there must also be losers. The selfish desire of wanting to maintain peace causes wars, and hatred is born to protect love."
-    }
 
-]
+       "Quotee": "Stephen Chbosky, The Perks of Being a Wallflower",
+      "Quote": "We accept the love we think we deserve. "
+    },
+    {
+      "Quotee": "Alex Michaelides, The Silent Patient",
+      "Quote": "There’s so much pain everywhere, and we just close our eyes to it. The truth is we’re all scared. We’re terrified of each other."
+    },
+    {
+      "Quotee": "Orochimaru , Naruto",
+      "Quote": "IT’S HUMAN NATURE NOT TO REALIZE THE TRUE VALUE OF SOMETHING, UNLESS THEY LOSE IT."
+    },
+    {
+      "Quotee": "Pain , Naruto",
+      "Quote": "If You Don’t Share Someone’s Pain, You Can Never Understand Them. "
+    },
+    {
+      "Quotee": "Andy Dufresne",
+      "Quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies. "
+    },
+    {
+      "Quoteel": "Madara Uchiha",
+      "Quote": "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist. In this world, wherever there is light - there are also shadows. As long as the concept of winners exists, there must also be losers. The selfish desire of wanting to maintain peace causes wars, and hatred is born to protect love."
+      },{
+      "Quotee": "Humayun Ahmed",
+      "Quote": "Waiting is a sign of pure love. Everyone can say “I Love You”. But not everyone can prove that love by waiting!"
+}
+    }
+  ]
 }
