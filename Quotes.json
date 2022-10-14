@@ -77,35 +77,54 @@
       "Role Model": "Evelyn Scott",
       "Quotes": "It is impossible to control creation."
     },
-  {
+    {
       "Role Model": "Bradley Cooper",
       "Quotes": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
-    },
- {
+     },
+    {
        "Role Model": "sant Gadbe baba ",
        "Quotes":"Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
-  }, 
-  {
-    "Role Model": "Lt. Gen. George S. Patton",
-    "Quotes":"Say what you mean and mean what you say."
-  },
-  {
-    "Role Model":" Soren Kierkegaard" ,
-    "Quotes":"Life is not a problem to be solved, but a reality to be experienced."
-},
-{
-    "Role Model": "Steven Adler",
-    "Quotes": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
-  },
-{
-    "Role Model": "Steve Jobs",
-    "Quotes": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
-  },
-    
+    }, 
     {
-    "Role Model": "Swami vivekananda",
-    "Quotes": "In a conflict between the heart and the brain, follow your heart. "
-  }
+      "Role Model": "Lt. Gen. George S. Patton",
+      "Quotes":"Say what you mean and mean what you say."
+    },
+    {
+      "Role Model":" Soren Kierkegaard" ,
+      "Quotes":"Life is not a problem to be solved, but a reality to be experienced."
+    },
+    {
+      "Role Model": "Steven Adler",
+      "Quotes": "Nothing is more cooler and more attractive than a big comeback, and that'll be mine"
+    },
+    {
+      "Role Model": "Steve Jobs",
+      "Quotes": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma"
+    },
+    {
+      "Role Model": "Swami vivekananda",
+      "Quotes": "In a conflict between the heart and the brain, follow your heart. "
+    },
+    {
+      "Role Model": "Stephen Chbosky, The Perks of Being a Wallflower",
+      "Quotes": "We accept the love we think we deserve. "
+    },
+    {
+      "Role Model": "Alex Michaelides, The Silent Patient",
+      "Quotes": "There’s so much pain everywhere, and we just close our eyes to it. The truth is we’re all scared. We’re terrified of each other."
+    },
+    {
+      "Role Model": "Orochimaru , Naruto",
+      "Quotes": "IT’S HUMAN NATURE NOT TO REALIZE THE TRUE VALUE OF SOMETHING, UNLESS THEY LOSE IT."
+    },
+    {
+      "Role Model": "Pain , Naruto",
+      "Quotes": "If You Don’t Share Someone’s Pain, You Can Never Understand Them. "
+    },
+    {
+      "Role Model": "Andy Dufresne",
+      "Quotes": "Hope is a good thing, maybe the best of things, and no good thing ever dies"
+    }
 ]
 }
 
