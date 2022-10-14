@@ -6,8 +6,8 @@
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
-- [jungchoib](https://github.com/jungchoib)
-- [Jongkwang131](https://github.com/Jongkwang131)
-- [jiwonqaz](https://github.com/jiwonqaz)
 - [Divyesh1511](https://github.com/Divyesh1511)
+- [Tejas Shinkar](https://github.com/MidknightRider)
 - [darkbits018](https://github.com/darkbits018)
+
+
