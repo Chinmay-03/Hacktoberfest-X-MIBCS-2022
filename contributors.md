@@ -11,5 +11,6 @@
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
 - [mdhasnainali](https://github.com/mdhasnainali)
+- [Shruti Singh](https://github.com/ShrutiSingh04503)
 
 
