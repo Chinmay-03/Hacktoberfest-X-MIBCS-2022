@@ -1,8 +1,8 @@
 {
   "thought / Quote ": [
     {
-      "Quotee" : "from Shawshank Redemption"
-      "Quote" : "Get busy living or get busy dying"
+      "Quotee": "from Shawshank Redemption",
+      "Quote": "Get busy living or get busy dying"
     },
     {
       "Quotee": "Mahatma Gandhi",
@@ -113,8 +113,7 @@
       "Quote": "Square up I'm the mightiest, myself in the fight."
     },
     {
-
-       "Quotee": "Stephen Chbosky, The Perks of Being a Wallflower",
+      "Quotee": "Stephen Chbosky, The Perks of Being a Wallflower",
       "Quote": "We accept the love we think we deserve. "
     },
     {
@@ -136,7 +135,7 @@
     {
       "Quoteel": "Madara Uchiha",
       "Quote": "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist. In this world, wherever there is light - there are also shadows. As long as the concept of winners exists, there must also be losers. The selfish desire of wanting to maintain peace causes wars, and hatred is born to protect love."
-      },
+    },
     {
       "Quotee": "Humayun Ahmed",
       "Quote": "Waiting is a sign of pure love. Everyone can say “I Love You”. But not everyone can prove that love by waiting!"
@@ -149,5 +148,9 @@
       "Quotee": "Sundar Pichai",
       "Quote": "As a leader, It is important to not just see your own success, but focus on the success of others."
     },
+    {
+      "Quotee": "A. P. J. Abdul Kalam",
+      "Quote": "Dream is not that which you see while sleeping it is something that does not let you sleep."
+    }
   ]
 }
