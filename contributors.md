@@ -8,6 +8,8 @@
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [Divyesh1511](https://github.com/Divyesh1511)
 - [Tejas Shinkar](https://github.com/MidknightRider)
+- [Soham Kulkarni](https://github.com/soham-31)
+- [Komal Attarde](https://github.com/komal-04)
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
 - [mdhasnainali](https://github.com/mdhasnainali)
