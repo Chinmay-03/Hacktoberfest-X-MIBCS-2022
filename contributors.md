@@ -21,11 +21,12 @@
 - [Saiesh Agre](https://github.com/Saiesh-Agre))
 - [Vishal-Borse](https://github.com/Vishal-Borse)
 - [Deshna Shah](https://github.com/Deshnashah27)
-
-- [Nabhi Agrawal](https://github.com/NabhiA)
-
+- [Nqabenhle](https://github.com/nqabenhle)
 - [Darshan Kedare](https://github.com/Darshk03)
 - [Harshit Shukla](https://github.com/Harshit-2112)
 - [Raksha Aage](https://github.com/RakshaAage)
+- [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
+- [Nabhi Agrawal](https://github.com/NabhiA)
+
 
 
