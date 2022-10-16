@@ -2,7 +2,7 @@
 
 *these are few sample names to show you the format
 
-- [Soham Kulkarni](https://github.com/soham-19)
+
 - [jayesh](https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
@@ -11,6 +11,7 @@
 - [Tejas Shinkar](https://github.com/MidknightRider)
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
+- [Soham Kulkarni](https://github.com/soham-19)
 - [mdhasnainali](https://github.com/mdhasnainali)
 - [VedantAndhale](https://github.com/VedantAndhale)
 - [Jothishwar](https://github.com/Jothishwar)
