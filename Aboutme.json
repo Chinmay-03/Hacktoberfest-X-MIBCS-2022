@@ -11,9 +11,15 @@
       "Info": "Currently studying in 2nd year.Hands-on experience in google cloud,languages learnt so far are python,C,C++ and recently learning german as a foreign language."
     },
     {
+
       "Name": "soham kulkarni"
       "Branch": "computer"
-      "Info": "codinggg"
+      "Info": "codinggg"},
+      {
+     "Name": "Darshan Kedare"
+      "Branch": "Artificial intelligence and data science"
+      "Info": "I am a person who comes from a creative field" 
+
     },
     {
       "Name": "Sundar Pichai"
@@ -24,6 +30,11 @@
       "Name": "Sundar Pichai"
       "Branch": "Computer Science"
       "Info": "Sundar is the CEO of Google and Alphabet and serves on Alphabet’s Board of Directors. Under his leadership,Google has been focused on developing products and services, powered by the latest advances in AI, that offer help in moments big and small."
+    },
+    {
+      "Name": "Deshna Shah"
+      "Branch": "Computer Engineering"
+      "Info": "Deshna is ambitious student at K.K.W.I.E.E.R department of Computer Engineering Nashik, She is passionate about her work , she is focused, disciplined, punctual and analytical thinker."
     },
     {
       "Name": "Sundar Pichai"
@@ -44,6 +55,17 @@
       "Name": "Prasanth Anand P"
       "Branch": "Computer Science",
       "Info": "I'm type of person who is Ready To learn and try new things"
+    }
+    {
+
+      "Name": 'Saiesh Agre'
+      "Branch": 'Artificial Intelligence and Data Science'
+      "Info": '2nd Year student in prestigious KK Wagh Institute. Love sketching, reading biographies, and of course coding. Fan of Steve Jobs.'
+      },
+{
+      "Name": "Harshit Shukla"
+      "Branch": "Computer Science & Engineering",
+      "Info": "I'm passionately learn new things, love competitive coding."},
     }
   ]
 }
