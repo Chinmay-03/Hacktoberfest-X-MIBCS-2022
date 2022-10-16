@@ -149,5 +149,10 @@
       "Quotee": "Sundar Pichai",
       "Quote": "As a leader, It is important to not just see your own success, but focus on the success of others."
     },
-  ]
+    {
+      "Quotee": 'Steve Jobs, Think Different ad'
+      "Quote": 'People who are crazy enough to think they can change the worlds, are the ones who do'
+      
+    }
+    ]
 }
