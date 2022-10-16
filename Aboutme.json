@@ -29,16 +29,21 @@
       "Name": "Sundar Pichai"
       "Branch": "Computer Science"
       "Info": "Sundar is the CEO of Google and Alphabet and serves on Alphabet’s Board of Directors. Under his leadership,Google has been focused on developing products and services, powered by the latest advances in AI, that offer help in moments big and small."
-    }
+    },
     {
       "Name": "Vedant Andhale"
       "Branch": "Artificial intelligence and Data science ",
       "Info": "A frontend-developer ready to dive into the world AI&ML soon.....; Always ready to help because collaboration first code second."
-    }
+    },
     {
       "Name": "Prasanth Anand P"
       "Branch": "Computer Science",
       "Info": "I'm type of person who is Ready To learn and try new things"
+    },
+    {
+      "Name": "Nqabenhle Mlaba",
+      "Branch": "Web Development",
+      "Info": "Hi there, my name is Nqabenhle (or you can just call me Q). I am a hard-working and dedicated student from South Africa. I study Economics but I take Computer Science courses online and teach myself programming for every second I get. I started learning how to program by the end of February 2022. I began with the CS50's Introduction to Computer Science course. In the past few months, I have learned computational thinking, abstraction, data structures, algorithms, web development, and how to be a better programmer."
     }
   ]
 }
