@@ -157,6 +157,13 @@
       "Quote": "As a leader, It is important to not just see your own success, but focus on the success of others."
     },
     {
+
+      "Quotee": 'Steve Jobs, Think Different ad'
+      "Quote": 'People who are crazy enough to think they can change the worlds, are the ones who do'
+      
+    },
+    {
+
       "Quotee": "Ralph Waldo Emerson",
       "Quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. "
     },
@@ -171,10 +178,11 @@
     {
       "Quotee": "APJ. Abdul Kalam",
       "Quote": "Your future is created what you do today, not tomorrow."
-    }
+    },
     {
       "Quotee": 'Steve Jobs, Think Different ad'
       "Quote": 'People who are crazy enough to think they can change the world, are the ones who do.'
-    }
+    },
   ]
+
 }
