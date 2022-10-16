@@ -14,4 +14,5 @@
 - [VedantAndhale](https://github.com/VedantAndhale)
 - [Jothishwar](https://github.com/Jothishwar)
 - [Prasanth Anand P](https://github.com/Prasanth-Anand-P)
+- [Harshit-2112](https://github.com/Harshit-2112)
 
