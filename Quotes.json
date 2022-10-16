@@ -157,12 +157,24 @@
       "Quote": "As a leader, It is important to not just see your own success, but focus on the success of others."
     },
     {
+      "Quotee": "Ralph Waldo Emerson",
+      "Quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. "
+    },
+    {
       "Quotee": "Marilyn Monroe",
       "Quote": "Don't Stop when you're Tired, Stop when you're Done. "
     },
     {
       "Quotee": "A. P. J. Abdul Kalam",
       "Quote": "Dream is not that which you see while sleeping it is something that does not let you sleep."
+    },
+    {
+      "Quotee": "APJ. Abdul Kalam",
+      "Quote": "Your future is created what you do today, not tomorrow."
+    }
+    {
+      "Quotee": 'Steve Jobs, Think Different ad'
+      "Quote": 'People who are crazy enough to think they can change the world, are the ones who do.'
     }
   ]
 }
