@@ -21,7 +21,7 @@
 - [Saiesh Agre](https://github.com/Saiesh-Agre))
 - [Vishal-Borse](https://github.com/Vishal-Borse)
 - [Deshna Shah](https://github.com/Deshnashah27)
-
+- [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nqabenhle](https://github.com/nqabenhle)
 
 - [Darshan Kedare](https://github.com/Darshk03)
