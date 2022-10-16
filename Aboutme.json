@@ -40,5 +40,11 @@
       "Branch": "Computer Science",
       "Info": "I'm type of person who is Ready To learn and try new things"
     }
+
+    {
+    "Name": 'Saiesh Agre'
+    "Branch": 'Artificial Intelligence and Data Science'
+    "Info": '2nd year student studying in prestigious KK Wagh Institute. Love to sketch, read biographies and of course code. Fan of Steve Jobs.'
+    }
   ]
 }
