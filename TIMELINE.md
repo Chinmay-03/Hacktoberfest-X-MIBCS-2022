@@ -6,6 +6,7 @@
 ##### Task 4 - TBD
 
 ## Task 1
+##### Star this repository
 ##### 1.a) - Add your name to [Contributors.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/contributors.md)
 ##### 1.b) - Add your favorite quote in [Quotes.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Quotes.json)
 
