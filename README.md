@@ -1,4 +1,6 @@
 # Hactoberfest-X-MIBCS-2022
+
+## You should fork and star this repository
 ### Hactoberfest X MIBCS 2022 is a repository for students to contribute to open source projects within the campus or any on the internet
 
 ![Hacktoberfest MIBCS Poster](https://i.imgur.com/7RF1r8Y.png) 
