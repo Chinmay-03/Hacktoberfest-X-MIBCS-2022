@@ -7,4 +7,4 @@ HTML tutorial | https://www.w3schools.com/html/default.asp | Lorem ipsum dolor s
 Python Beginner's Course | https://www.youtube.com/watch?v=_uQrJ0TkZlc | great explaination with pratical examples from start. Sufficient for absolute beginners.
 C++ Tutorial|https://www.youtube.com/c/CodeWithHarry/playlists| Playlist of C++ programming language.
 DSA-450|https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view| DSA-450 is interview questions sheet for DSA created by Love Babbar-youtuber,Ex-Microsoft,Ex-Amazon.
-
+DSA in JAVA |https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ| playlist of one of the best DSA course created by kunal kushwaha.
