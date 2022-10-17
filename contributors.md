@@ -1,8 +1,9 @@
 # Contributors
 
-*these are few sample names to show you the format
-- [Chinmay Kotkar](https://github.com/Chinmay-03)
+##- [Chinmay Kotkar](https://github.com/Chinmay-03)
 
+- [KhairnarTejas](https://github.com/KhairnarTejas)
+- [SourabhP2003](https://github.com/SourabhP2003)
 - [jayesh](https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
@@ -11,8 +12,21 @@
 - [Tejas Shinkar](https://github.com/MidknightRider)
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
+- [Soham Kulkarni](https://github.com/soham-19)
+- [Sohamm](https://github.com/soham-31)
 - [mdhasnainali](https://github.com/mdhasnainali)
 - [VedantAndhale](https://github.com/VedantAndhale)
 - [Jothishwar](https://github.com/Jothishwar)
 - [Prasanth Anand P](https://github.com/Prasanth-Anand-P)
+- [Saiesh Agre](https://github.com/Saiesh-Agre))
 - [Vishal-Borse](https://github.com/Vishal-Borse)
+- [Deshna Shah](https://github.com/Deshnashah27)
+- [Nqabenhle](https://github.com/nqabenhle)
+- [Darshan Kedare](https://github.com/Darshk03)
+- [Harshit Shukla](https://github.com/Harshit-2112)
+- [Raksha Aage](https://github.com/RakshaAage)
+- [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
+- [Nabhi Agrawal](https://github.com/NabhiA)
+- [Satyarohan Prakash](https://github.com/ExtremeSatya)
+
+
