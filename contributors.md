@@ -25,6 +25,6 @@
 - [Raksha Aage](https://github.com/RakshaAage)
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
-
+- [Satyarohan Prakash](https://github.com/ExtremeSatya)
 
 
