@@ -1,6 +1,6 @@
 # Contributors
 
-##- [Chinmay Kotkar](https://github.com/Chinmay-03)
+## [Chinmay Kotkar](https://github.com/Chinmay-03)
 
 - [KhairnarTejas](https://github.com/KhairnarTejas)
 - [SourabhP2003](https://github.com/SourabhP2003)
@@ -18,7 +18,7 @@
 - [VedantAndhale](https://github.com/VedantAndhale)
 - [Jothishwar](https://github.com/Jothishwar)
 - [Prasanth Anand P](https://github.com/Prasanth-Anand-P)
-- [Saiesh Agre](https://github.com/Saiesh-Agre))
+- [Saiesh Agre](https://github.com/Saiesh-Agre)
 - [Vishal-Borse](https://github.com/Vishal-Borse)
 - [Deshna Shah](https://github.com/Deshnashah27)
 - [Nqabenhle](https://github.com/nqabenhle)
