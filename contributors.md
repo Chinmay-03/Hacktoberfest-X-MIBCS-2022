@@ -1,4 +1,5 @@
-## Contributors
+# Contributors
+
 - [KhairnarTejas](https://github.com/KhairnarTejas)
 - [SourabhP2003](https://github.com/SourabhP2003)
 - [jayesh](https://github.com/jayesh101)
@@ -9,6 +10,7 @@
 - [Tejas Shinkar](https://github.com/MidknightRider)
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
+- [Soham Kulkarni](https://github.com/soham-19)
 - [Sohamm](https://github.com/soham-31)
 - [mdhasnainali](https://github.com/mdhasnainali)
 - [VedantAndhale](https://github.com/VedantAndhale)
