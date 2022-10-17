@@ -1,5 +1,7 @@
 # Contributors
 
+##- [Chinmay Kotkar](https://github.com/Chinmay-03)
+
 - [KhairnarTejas](https://github.com/KhairnarTejas)
 - [SourabhP2003](https://github.com/SourabhP2003)
 - [jayesh](https://github.com/jayesh101)
