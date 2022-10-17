@@ -6,4 +6,4 @@ Python tutorial | https://www.w3schools.com/python/default.asp | Lorem ipsum dol
 HTML tutorial | https://www.w3schools.com/html/default.asp | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 Python Beginner's Course | https://www.youtube.com/watch?v=_uQrJ0TkZlc | great explaination with pratical examples from start. Sufficient for absolute beginners.
 C++ Tutorial|https://www.youtube.com/c/CodeWithHarry/playlists| Playlist of C++ programming language.
-
+c tutorial | https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S | "Jenny's C playlist is one of the best playlist available on the internet. The specality is the simplicity in the course. She breaks down things so that they become very easy to learn". 
