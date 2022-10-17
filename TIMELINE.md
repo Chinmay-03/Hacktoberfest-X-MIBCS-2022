@@ -20,10 +20,11 @@
 
 
 ## Task 4
-##### 4.a) - Include a few sentences introducing yourself in [Aboutme.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Aboutme.json)
-##### 4.b) - Add any one program via upload or git push in [uploads](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/tree/main/Uploads)
-##### 4.c) - Include a few sentences introducing yourself in [Aboutme.json](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Aboutme.json)
-##### 4.d) - Add any one program via upload or git push in [uploads](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/tree/main/Uploads)
+##### 4.a) - Find a valid suggestion for next task! it may be anything solving any error on this repo, adding your project and doing improvents in the same or any idea which you like
+##### (optional) you can collaborate with someone else for this task 
+##### 4.b) - create issue for the same on main repo and ask to get assingned to solve the issue created by you
+##### 4.c) - Solve the issue after you are assingned 
+##### 4.d) - Sumbit new PR.
 
 ## you can take help of these links on learning how to contribute
 ### 1. [First Contributions on Github](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
