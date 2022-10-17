@@ -15,14 +15,14 @@
 ##### 2.b) - Add any one program via upload or git push in [uploads](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/tree/main/Uploads)
 
 ## Task 3
-##### 3.a) - Include your favourite github repository in  [repos.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/Aboutme.json) with the reason why you like it. _Addition should be at the end of file not at any other place_.
-##### 3.b) - Add the link of your favourite coding resource(video + website)[resource.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/tree/main/Uploads)._repetition not allowed_
+##### 3.a) - Include your favourite github repository in  [FavouriteREPO.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/FavouriteREPO.md) with the reason why you like it. _repetition not allowed and Addition should be at the end of file not at any other place_.
+##### 3.b) - Add the link of your favourite coding resource(video or/and website) [resource.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/resources.md). _repetition not allowed and Addition should be at the end of file not at any other place_
 
 
 ## Task 4
-##### 4.a) - Find a valid suggestion for next task! it may be anything solving any error on this repo, adding your project and doing improvents in the same or any idea which you like
+##### 4.a) - Find a valid work which you can do for this task! it may be anything solving any error on this repo, adding your project and doing improvents in the uploaded project  or any idea which you like
 ##### (optional) you can collaborate with someone else for this task 
-##### 4.b) - create issue for the same on main repo and ask to get assingned to solve the issue created by you
+##### 4.b) - (important) create issue for the same on main repo and ask to get assingned to solve the issue created by you 
 ##### 4.c) - Solve the issue after you are assingned 
 ##### 4.d) - Sumbit new PR.
 
