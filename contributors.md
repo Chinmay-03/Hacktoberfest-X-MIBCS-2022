@@ -12,8 +12,6 @@
 - [Tejas Shinkar](https://github.com/MidknightRider)
 - [darkbits018](https://github.com/darkbits018)
 - [Om Shah](https://github.com/Omm2005)
-- [Soham Kulkarni](https://github.com/soham-19)
-- [Sohamm](https://github.com/soham-31)
 - [mdhasnainali](https://github.com/mdhasnainali)
 - [VedantAndhale](https://github.com/VedantAndhale)
 - [Jothishwar](https://github.com/Jothishwar)
@@ -28,5 +26,6 @@
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
+- [Soham19](https://github.com/soham-19)
 
 
