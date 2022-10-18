@@ -9,7 +9,7 @@ int main()
     do
     {
         cout<<"\n Menu";
-        cout<<"\n1. Read an Array\n2. Display an Array\n3. Insertion \n4. Deletion\n";
+        cout<<"\n1. Read an Array\n2. Display an Array\n3. Insertion \n4. Deletion\n5. Update Element \n6. Search\n7. Sorting\n8. Merging";
         cout<<"\nEnter your Choice:";
         cin>>ch;
         switch(ch)
@@ -103,7 +103,54 @@ int main()
                                 for(int i=0;i<n;i++)
                                     cout<<"\t"<<arr[i];
                                 break;
-                        default:
+                        case 5:
+                    cout<<"\n Enter a position at which value needs to be updated:";
+                    cin>>pos;
+                    cout<<"\n New Value:";
+                    cin>>elem;
+                    arr[pos-1]=elem;
+                    cout<<"\n The Elements of Array After Updation:";
+                    for(int i=0;i<n;i++)
+                        cout<<"\t"<<arr[i];
+                    break;
+            case 6:
+                flag=0;
+                cout<<"\n Enter the element to be searched: ";
+                cin>>elem;
+                for(int i=0;i<n;i++)
+                    if(arr[i]==elem)
+                    {
+                        pos=i;
+                        flag=1;
+                        break;
+                    }
+                if(flag==1)
+                    cout<<"\nElement Found in Array at Position "<<pos+1;
+                else
+                    cout<<"\n Element Not Found";
+                break;
+            case 7:
+                sort(arr, arr + n);
+                cout<<"\n The Elements of Array After Sorting:";
+                    for(int i=0;i<n;i++)
+                        cout<<"\t"<<arr[i];
+                break;
+            case 8:
+                cout<<"\n Enter the Size of Second Array:";
+                cin>>n1;
+                cout<<"\n Enter Array to be Merged:";
+                for(int i=0;i<n1;i++)
+                    cin>>arr1[i];
+                pos=n;
+                n=n+n1;
+                for(int i=pos,j=0;i<n;i++,j++)
+                    arr[i]=arr1[j];
+                cout<<"\n The Elements of Array After Merging:";
+                    for(int i=0;i<n;i++)
+                        cout<<"\t"<<arr[i];
+                break;
+   
+                      default:
                                 cout<<"\n Wrong Choice";
                     }
                     break;
