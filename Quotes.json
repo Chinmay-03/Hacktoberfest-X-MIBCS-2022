@@ -24,7 +24,8 @@
 
       "Quotee": "Ratan Tata",
       "Quote": "I don't believe in taking right decisions. I take decisions and then make them right."
-},{
+    },
+    {
      "Quotee": "Hal Elrod",
      "Quote": "Remember, the moment you accept total responsibility for everything in your life is the moment you claim the power to change anything in your life." 
     },
@@ -220,6 +221,10 @@
     {
       "Quotee": "Nelson Mandela",
       "Quote": "I never lose. I either win or learn.",
+    },
+    {
+      "Quotee": "Les Brown",
+      "Quote": "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement.",
     },
   ]
 
