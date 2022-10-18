@@ -1,7 +1,8 @@
-pragma solidity ^<*version*>;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.7;
 
 // Build the Contract
-<*keyword*> MarksManagmtSys
+contract MarksManagmtSys
 {
 	//structure for student details
 	struct Student
@@ -11,7 +12,7 @@ pragma solidity ^<*version*>;
 		int marks;
 	}
 
-	<*datatype*> owner;
+	address owner;
 	int public stdCount = 0;
 	mapping(int => Student) public stdRecords;
 
@@ -31,7 +32,7 @@ pragma solidity ^<*version*>;
 						int _marks) public onlyOwner
 	{
 		// Increase the count by 1
-		stdCount = ;
+		stdCount+ =1 ;
 
 		// Fetch the student details with the help of stdCount
 		stdRecords[stdCount] = Student(_ID, _name, _marks);

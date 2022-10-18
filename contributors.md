@@ -1,6 +1,7 @@
 # Contributors
 
 ## [Chinmay Kotkar](https://github.com/Chinmay-03)
+- [komal Attarde](https://github.com/komala1)
 - [Niyatipatil](https://github.com/Niyatipatil)
 - [KhairnarTejas](https://github.com/KhairnarTejas)
 - [SourabhP2003](https://github.com/SourabhP2003)
@@ -26,6 +27,8 @@
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
+- [Krishna Patidar](https://github.com/krishna-p060)
 - [Soham19](https://github.com/soham-19)
+
 
 
