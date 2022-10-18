@@ -82,10 +82,15 @@
       "Branch": 'Artificial Intelligence and Data Science'
       "Info": '2nd Year student in prestigious KK Wagh Institute. Love sketching, reading biographies, and of course coding. Fan of Steve Jobs.'
       },
-{
+    {
       "Name": "Harshit Shukla"
       "Branch": "Computer Science & Engineering",
       "Info": "I'm passionately learn new things, love competitive coding."},
-    }
+    },
+   { 
+     "Name":"Niyati Patil"
+     "Branch":"Artificial intelligence and data science"
+     "Info":"currently i am in 2nd year of engineering in K K Wagh institute and want to explore more in artificial intelligence"
+   }
   ]
 }
