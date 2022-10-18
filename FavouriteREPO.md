@@ -6,6 +6,7 @@ GitHub India |https://github.com/github/india | GitHub resources and information
 MyAwesomeCart|https://github.com/CodeWithHarry/MyAwesomeCart| A Django E commerce website.
 NLP Progress |https://github.com/sebastianruder/NLP-progress| contains dataset for NLP training including Bengali, Arabic and Nepali.
 Developer Quiz Site | https://github.com/freeCodeCamp/Developer_Quiz_Site | hosts 700+ multiple choice questions
+freeCodeCamp | https://github.com/freeCodeCamp/freeCodeCamp | freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) nonprofit to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.
 
 MIBCS-Programming-Resources |https://github.com/Suhaan-Bhandary/MIBCS-Programming-Resources |Students can easily contribute for Hactoberfest'22
 
