@@ -1,18 +1,18 @@
 // SPDX-License-Identifier: MIT
-<*keyword*> solidity 0.8.7;
+pragma solidity 0.8.7;
 
 contract VendingMachine {
 
     // Declaring state variables of the contract
-    address <*access specifier*> owner;
+    address public owner;
     mapping (address => uint) public cupcakeBalances;
 
     // When 'VendingMachine' contract is deployed:
     // 1. set the deploying address as the owner of the contract
     // 2. set the deployed smart contract's cupcake balance 
     constructor() {
-        <*____*> = msg.sender;
-        cupcakeBalances[address(owner)] = <*enter balance*>;
+        owner = msg.sender;
+        cupcakeBalances[address(owner)] = 50;
     }
 
     // Allow the owner to increase the smart contract's cupcake balance
@@ -22,7 +22,7 @@ contract VendingMachine {
     }
 
     // Allow anyone to purchase cupcakes
-    <*keyword*> purchase(uint amount) public payable {
+    function purchase(unit amount) public payable {
         require(msg.value >= amount * 1 ether, "You must pay at least 1 ETH per cupcake");
         require(cupcakeBalances[address(owner)] >= amount, "Not enough cupcakes in stock to complete this purchase");
         cupcakeBalances[address(owner)] -= amount;
