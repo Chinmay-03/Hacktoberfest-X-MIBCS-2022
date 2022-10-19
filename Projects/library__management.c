@@ -44,7 +44,7 @@ int main(){
                printf ("\t author name = %s\n",lib[i].author);
                printf ("\t pages = %d\n",lib[i].noofpages);
                printf ("\t price = %f\n",lib[i].price);
-               printf ("\t price = %f\n",lib[i].rating);
+               printf ("\t rating = %f\n",lib[i].rating);
             }
             break;
          case 3:
