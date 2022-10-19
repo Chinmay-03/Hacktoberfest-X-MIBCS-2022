@@ -10,5 +10,5 @@ Developer Quiz Site | https://github.com/freeCodeCamp/Developer_Quiz_Site | host
 MIBCS-Programming-Resources | https://github.com/Suhaan-Bhandary/MIBCS-Programming-Resources |Students can easily contribute for Hactoberfest'22
 Front-End-Interview-Handbok | https://github.com/yangshun/front-end-interview-handbook |  Front End interview preparation materials for busy engineers.
 jwasham/coding-interview-university | https://github.com/jwasham/coding-interview-university | This repo help to prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
-Python Algorithms | https://github.com/TheAlgorithms/Python | One syop solution for python codes
+Python Algorithms | https://github.com/TheAlgorithms/Python | One stop solution for python codes
 
