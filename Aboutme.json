@@ -85,12 +85,18 @@
       "Name":"Shrishti Jain",
       "Branch": "Computer Science and Information Technology",
       "Info": "I really to like to explore new technologies"
-    }
+    },
     {
       "Name":"Krishna Patidar",
       "Branch": "Computer engineering",
       "Info": "I'am student at K.K.Wagh Institute of Engineering, interested in tech."
-    }
+    },
+    {
+      "Name": "Sakshi Ganesh Danej",
+      "Branch" : "Computer Engineering",
+      "Info" : "Sakshi is an enthusiastic girl striving to achieve excellence in coding and working towards her own goals. She loves cooking and painting.",
+    },
+
 
   ]
 }
