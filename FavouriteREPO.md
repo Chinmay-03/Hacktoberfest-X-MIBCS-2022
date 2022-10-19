@@ -10,4 +10,4 @@ MIBCS-Programming-Resources |https://github.com/Suhaan-Bhandary/MIBCS-Programmin
 
 Front-End-Interview-Handbok|https://github.com/yangshun/front-end-interview-handbook|  Front End interview preparation materials for busy engineers.
 jwasham/coding-interview-university |https://github.com/jwasham/coding-interview-university | This repo help to prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
-
+lightening AI|https://github.com/Lightning-AI| It Builds state-of-the art models and use them inside Lightning Apps
