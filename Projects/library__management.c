@@ -7,15 +7,16 @@ struct library{
    char author[50];
    int noofpages;
    float price;
+   int rating;
 };
 int main(){
-   struct library lib[100];
+   struct library lib[200];
    char bookname[30];
    int i,j, keepcount;
    i=j=keepcount = 0;
    while(j!=6){
       printf("\n1. Add book information\n");
-      printf("2.Display book information\n");
+      printf("2. Display book information\n");
       printf("3. no of books in the library\n");
       printf("4. Exit");
       printf ("\n\nEnter one of the above : ");
@@ -31,6 +32,8 @@ int main(){
             scanf ("%d",&lib[i].noofpages);
             printf ("Enter price = ");
             scanf ("%f",&lib[i].price);
+            printf ("how do you rate this book out of five? = ");
+            scanf ("%f",&lib[i].rating);
             keepcount++;
             i++;
             break;
@@ -41,6 +44,7 @@ int main(){
                printf ("\t author name = %s\n",lib[i].author);
                printf ("\t pages = %d\n",lib[i].noofpages);
                printf ("\t price = %f\n",lib[i].price);
+               printf ("\t price = %f\n",lib[i].rating);
             }
             break;
          case 3:
