@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap">
+    <link rel="stylesheet" href="home.css">
+    <link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <title>Home: Team Brahmastra Racing</title>
+</head>
+<body>
+  <nav class="navbar">
+    <!-- LOGO -->
+    <a class="logo1">
+      <img class="logo" src="logo3.jpeg" alt="Team Brahmastra Racing">
+    </a>
+    <!-- NAVIGATION MENU -->
+    <ul class="nav-links">
+      <!-- USING CHECKBOX HACK -->
+      <input type="checkbox" id="checkbox_toggle" />
+      <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+      <!-- NAVIGATION MENUS -->
+      <div class="menu">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="we.html">Team</a></li>
+        <li><a href="achievment.html">Achievements</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="sponsor.html">Sponsor-Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </div>
+    </ul>
+  </nav>
+            team video
+            <center>
+            <div class="front-video">
+            <video src='video4.mp4' type="video/mp4" loop class="clip" muted>
+                Your browser does not support the video tag.
+                </video>
+            </div>
+            </center>
+            
+            <!-- <div class="waviy">
+              <span style="--i:1">O</span>
+              <span style="--i:2">U</span>
+              <span style="--i:3">E</span> -->
+              <!-- <span style="--i:4">R</span>
+              <span style="--i:5"> </span>
+              <span style="--i:6">T</span>
+              <span style="--i:7">E</span>
+              <span style="--i:8">A</span>
+              <span style="--i:9">M</span> -->
+              
+              <!-- </div> -->
+       
+          <!-- team photo and info -->
+
+          <style>
+            h1{
+              font-family: fantasy;
+              margin-top:0px;
+              margin-right:0px;
+              margin-left:0px;
+              line-height:48px;
+              padding: 20px;
+              padding-bottom: 0px;
+              padding-top: 40px;
+              color:rgb(177, 0, 0);
+              margin:0 0 10px 0;
+  
+            }
+          </style>
+          <h1>OUR TEAM</h1>
+            <div class="team-container2">
+            <div class="team-image">
+              <img src="teamphoto_1.jpg">
+            </div>
+            <div class="team-info">
+              <p>Team Brahmastra Racing was found in 2008 and since then, the team has had tremendous success, routinely ranking first in the 
+                competition pool in previous years. Every year, we compete in important events like BAJA SAE INDIA, BAJA SAE INTERNATIONAL, 
+                and MEGA ATV where we are judged in a variety of categories.We are proud of our achievements, such as being one of only two 
+                teams in the world to successfully deploy Continuously Variable Transmission in an ATV. Our team is built on the ideals of 
+                fostering engineering development for the students who are interested in their personal development. We create an open enviornment 
+                for students to explore their creative side and bring those ideas in life.</p>
+            </div>
+          </div>
+
+        <h1>EVENTS</h1>
+            
+          
+        <script>
+            const clip= document.querySelectorAll('.clip');
+            for(let i=0; i<clip.length; i++){
+                clip[i].addEventListener('mouseenter',
+                function(e){
+                    clip[i].play()
+                })
+                clip[i].addEventListener('mouseout',
+                function(e){
+                    clip[i].pause()
+                })
+            }
+        </script>
+
+<div class="mySlides">
+  <div class="logo_img">
+    <img src="saeindia.png">
+    </div>
+  <div class="text">
+    <p>SAEINDIA is an affiliate society of SAE International registered in India as an Indian nonprofit engineering and scientific society dedicated to the advancement of mobility industry in India. The competition by the organisation helds at Pithampur, Madhya Pradesh every year.</p></div>
+</div>
+
+
+<div class="mySlides">
+  <div class="logo_img">
+  <img src="sae._int.png">
+  </div>
+  <div class="text">
+    <p>SAE is a global association of more than 128,000 engineers and related technical experts in the aerospace, automotive and commercial vehicle industries. Our core competencies are life-long learning and voluntary consensus standards development.
+      Founded in 1905, SAE strives to serve its primary constituents in a variety of ways. Through its globally-recognized magazines, Automotive Engineering International, Aerospace Engineering, and Off Highway Engineering, SAE informs the mobility community about the latest developments in the field.
+    </p></div>
+    </div>
+
+<div class="mySlides">
+    <div class="logo_img">
+  <img src="megaatv.png">
+  </div>
+  <div class="text">
+    <p>Mega ATV Championship is a national level ATV (All terrain vehicles) racing championship in India organized by "Autosports India". It is inter college national level racing championship for engineering students basically for mechanical/ automobile branches. This championship is well known for its extraordinary racing format, night endurance racing. </p>
+  </div>
+  </div>
+<!-- 
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a> -->
+
+<!-- </div> -->
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+
+  <h1>ACHIEVEMENTS 2022 </h1>
+
+  <div class="cards">
+    <div class="card1">
+    <img src="Overall.jpg" alt="Overall">
+    <p>Overall Rank</p>
+    </div>
+    <div class="card2">
+    <img src="design.jpg" alt="Design Event">
+    <p>Design Event</p>
+    </div>
+    <div class="card3">
+    <img src="design.jpg" alt="Sales Event">
+    <p>Sales Event</p>
+    </div>
+    <div class="card4">
+    <img src="design.jpg" alt="ATV performance">  
+    <p>ATV performance</p>
+    </div>
+  </div>
+
+    <h1>OUR SPONSORS</h1>
+
+    <div class="your-class" >
+      <div><img src="sponsor.jpeg" alt="ATV performance"></div>
+    </div>
+
+  
+
+        <div class="footer-basic">
+          <footer>
+            <h3><center>TEAM BRAHMASTRA RACING</center></h3>
+            <p><center>Mumbai Agra Road Amrutdham, Panchavati, Nashik, Maharashtra 422003</center></p>
+            <h6><center>teambramhastraracing@gmail.com</center></h6>
+              <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
+              <ul class="list-inline">
+                  <li class="list-inline-item"><a href="#">Home</a></li>
+                  <li class="list-inline-item"><a href="#">Team</a></li>
+                  <li class="list-inline-item"><a href="#">Achievements</a></li>
+                  <li class="list-inline-item"><a href="#">Gallery</a></li>
+                  <li class="list-inline-item"><a href="#">Sponsor-Us</a></li>
+                  <li class="list-inline-item"><a href="#">Contact</a></li>
+              </ul>
+              <p class="copyright">TEAM BRAHMASTRA RACING © 2018</p>
+          </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script> -->
+  </body>
+</body>
+</html>
