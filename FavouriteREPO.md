@@ -10,4 +10,4 @@ Developer Quiz Site | https://github.com/freeCodeCamp/Developer_Quiz_Site | host
 MIBCS-Programming-Resources | https://github.com/Suhaan-Bhandary/MIBCS-Programming-Resources |Students can easily contribute for Hactoberfest'22
 Front-End-Interview-Handbok | https://github.com/yangshun/front-end-interview-handbook |  Front End interview preparation materials for busy engineers.
 jwasham/coding-interview-university | https://github.com/jwasham/coding-interview-university | This repo help to prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
-
+aerosandbox|https://github.com/peterdsharpe/AeroSandbox| This repository makes the user to understand aircraft design and structure in better way.
