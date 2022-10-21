@@ -95,6 +95,11 @@
       "Name":"Krishna Patidar",
       "Branch": "Computer engineering",
       "Info": "I'am student at K.K.Wagh Institute of Engineering, interested in tech."
+    },
+    {
+      "Name" : "Akshay Khandare",
+      "Branch" : "Information Technology",
+      "Info" : "I am student at K.K.Wagh Institute of Engineering , interested in open source projects"
     }
 
   ]
