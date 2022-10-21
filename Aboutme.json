@@ -95,7 +95,12 @@
       "Name":"Krishna Patidar",
       "Branch": "Computer engineering",
       "Info": "I'am student at K.K.Wagh Institute of Engineering, interested in tech."
-    }
+    },
+    {
+       "Name":"Pratiksha Gite",
+      "Branch": "Computer engineering",
+      "Info": "codingggg"
+    },
 
   ]
 }
