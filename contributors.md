@@ -28,5 +28,5 @@
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
-
+- [pratiksha gite](https://github.com/Pratikshagite156)
 
