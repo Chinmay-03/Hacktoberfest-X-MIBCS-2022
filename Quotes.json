@@ -229,7 +229,12 @@
     {
       "Quotee": "Les Brown",
       "Quote": "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement."
-    }
+    },
+    {
+      "Quotee": "Martin Luther King",
+      "Quote": "We must accept finite disappointment but never lose infinite hope."
+    },
+    
   ]
 
 }
