@@ -25,6 +25,11 @@
       "Branch": "Artificial intelligence and data science",
       "Info": "I am a person who comes from a creative field"
     },
+     {
+      "Name": "komal Attarde",
+      "Branch": "Computer engineering",
+      "Info": "coding"
+    },
     {
       "Name": "Satyarohan Prakash",
       "Branch": "Computer Engineering",
@@ -85,12 +90,16 @@
       "Name":"Shrishti Jain",
       "Branch": "Computer Science and Information Technology",
       "Info": "I really to like to explore new technologies"
-    }
+    },
     {
       "Name":"Krishna Patidar",
       "Branch": "Computer engineering",
       "Info": "I'am student at K.K.Wagh Institute of Engineering, interested in tech."
     }
-
+    {
+      "Name":"Ishita jain",
+      "Branch": "Artificial intelligence and Data science",
+      "Info": "A 2nd year student at K.K.W.I.E.E.R. who is exploring in the techworld ,has a prior knowlegde of basics of python and SQL, and also do Sketching."
+    },
   ]
 }
