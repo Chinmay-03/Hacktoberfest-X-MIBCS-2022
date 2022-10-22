@@ -6,8 +6,6 @@
 - [KhairnarTejas](https://github.com/KhairnarTejas)
 - [SourabhP2003](https://github.com/SourabhP2003)
 - [jayesh](https://github.com/jayesh101)
-- [bengsky13](https://github.com/bengsky13)
-- [jeongwoo903](https://github.com/jeongwoo903)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [Divyesh1511](https://github.com/Divyesh1511)
 - [Tejas Shinkar](https://github.com/MidknightRider)
@@ -27,8 +25,10 @@
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
+- [pratiksha gite](https://github.com/Pratikshagite156)
 - [Krishna Patidar](https://github.com/krishna-p060)
 - [Soham19](https://github.com/soham-19)
 - [Akshay Khandare](https://github.com/Akshay1721)
+- [Ishita jain](https://github.com/ishj1311)
 
 

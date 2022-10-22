@@ -222,6 +222,12 @@
       "Quotee": "Sheryl Sandberg",
       "Quote": "Motivation comes from working on things we care about."
     },
+
+   { 
+     "Quotee": "Martin Luther King",
+     "Quote": "We must accept finite disappointment,but never lose infinite hope."
+   },
+
     {
       "Quotee": "Nelson Mandela",
       "Quote": "I never lose. I either win or learn."
@@ -233,7 +239,14 @@
     {
       "Quotee": "Theodore Roosevelt",
       "Quote" : "Believe you can and you're halfway there." 
-    }
+    },
+    {
+      "Quotee": "-Robert Louis Stevenson",
+      "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    },
+
+
   ]
+
 
 }
