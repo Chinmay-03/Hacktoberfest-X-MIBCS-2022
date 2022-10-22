@@ -1,0 +1,261 @@
+<html>
+
+<head>
+  <title>Express</title>
+  {{!-- <link rel="stylesheet" href="/stylesheets/style.css"> --}}
+  <style>
+   * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #535c68;
+}
+
+.wrapper {
+  /* margin: auto; */
+  margin-left: 7%;
+  max-width: 600px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.container {
+  background-color: #f9f9f9;
+  padding: 50px;
+  margin-left:10px;
+  border-radius: 10px;
+  /*border: 0.5px solid rgba(130, 130, 130, 0.25);*/
+  /*box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1), 
+              0 0 0 1px rgba(0, 0, 0, 0.1);*/
+}
+
+h1 {
+  color: #130f40;
+  font-family: 'Varela Round', sans-serif;
+  letter-spacing: -.5px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+
+.upload-container {
+  background-color: rgb(239, 239, 239);
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.border-container {
+  border: 5px dashed rgba(198, 198, 198, 0.65);
+/*   border-radius: 4px; */
+  padding: 20px;
+}
+
+.border-container p {
+  color: #130f40;
+  font-weight: 600;
+  font-size: 1.1em;
+  letter-spacing: -1px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  opacity: 0.65;
+}
+
+#file-browser {
+  text-decoration: none;
+  color: rgb(22,42,255);
+  border-bottom: 3px dotted rgba(22, 22, 255, 0.85);
+}
+
+#file-browser:hover {
+  color: rgb(0, 0, 255);
+  border-bottom: 3px dotted rgba(0, 0, 255, 0.85);
+}
+
+.icons {
+  color: #95afc0;
+  opacity: 0.55;
+}
+
+.upload-button{
+  /* position: absolute; */
+  /* margin-top: 300px; */
+  /* margin-left: 500px; */
+}
+
+#file-upload{
+  margin-left: 36%;
+  padding-bottom: 10px;
+}
+  </style>
+  <link rel="stylesheet" href="./stylesheets/style.css">
+  
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- <h1>Express</h1>
+  <p>Welcome to Express</p>
+   -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  
+  <nav>
+        <input type="checkbox" id="check" />
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <div class="Nav_logo">
+            <p Class="Logo_name">DocyTrans</p>
+            <img class="Logo_img" src="../images/Logo_svg.svg" alt="Logo" />
+        </div>
+        <ul>
+            <li><a class="active" href="#">Home</a></li>
+            <li><a href="#">Translate Document</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">FAQ's</a></li>
+
+        </ul>
+    </nav>
+    
+  <div class="wrapper">
+    <div class="container">
+      
+      <h1>Upload a file</h1>
+
+      <div class="upload-container">
+        <div class="border-container">
+          <div class="icons fa-4x">
+            <i class="fas fa-file-image" data-fa-transform="shrink-3 down-2 left-6 rotate--45"></i>
+            <i class="fas fa-file-alt" data-fa-transform="shrink-2 up-4"></i>
+            <i class="fas fa-file-pdf" data-fa-transform="shrink-3 down-2 right-6 rotate-45"></i>
+          </div>
+          <!--<input type="file" id="file-upload">-->
+          <p>Drag and drop files here, or 
+            <a href="#" id="file-browser">browse</a> your computer.</p>
+            
+        </div>
+      </div>
+      <form action="/" id="form-file" method="POST" enctype="multipart/form-data">
+       <label for="from">Translate from:</label>
+
+<select class="form-select form-select-lg mb-3" name="from" id="list-from-languages">
+  <option value="en">English</option>
+  <option value="ar">Arabic</option>
+  <option value="zh">Chinese</option>
+  <option value="nl">Dutch</option>
+  <option value="fi">Finnish</option>
+  <option value="fr">French</option>
+  <option value="de">German</option>
+  <option value="hi">Hindi</option>
+  <option value="hu">Hungarian</option>
+  <option value="id">Indonesian</option>
+  <option value="ga">Irish</option>
+  <option value="it">Italian</option>
+  <option value="ja">Japanese</option>
+  <option value="ko">Korean</option>
+  <option value="pl">Polish</option>
+  <option value="pt">Portuguese</option>
+  <option value="ru">Russian</option>
+  <option value="es">Spanish</option>
+  <option value="sv">Swedish</option>
+  <option value="tr">Turkish</option>
+  <option value="uk">Ukranian</option>
+  <option value="vi">Vietnamese</option>
+</select>
+{{!-- <br/> --}}
+       <label for="to" style="padding-left:30px;">Translate to:</label>
+
+<select class="form-select form-select-lg mb-3" name="to" id="list-to-languages">
+  <option value="en">English</option>
+  <option value="ar">Arabic</option>
+  <option value="zh">Chinese</option>
+  <option value="nl">Dutch</option>
+  <option value="fi">Finnish</option>
+  <option value="fr">French</option>
+  <option value="de">German</option>
+  <option value="hi">Hindi</option>
+  <option value="hu">Hungarian</option>
+  <option value="id">Indonesian</option>
+  <option value="ga">Irish</option>
+  <option value="it">Italian</option>
+  <option value="ja">Japanese</option>
+  <option value="ko">Korean</option>
+  <option value="pl">Polish</option>
+  <option value="pt">Portuguese</option>
+  <option value="ru">Russian</option>
+  <option value="es">Spanish</option>
+  <option value="sv">Swedish</option>
+  <option value="tr">Turkish</option>
+  <option value="uk">Ukranian</option>
+  <option value="vi">Vietnamese</option>
+</select>
+      
+        <input type="file" id="file-upload" name="filename">
+        <input type="submit" class="btn btn-primary upload-button">
+      </form>
+    </div>
+  </div>
+<script src="./javascripts/helper.js"></script>
+<script>
+  // $("#file-upload").css("opacity", "0");
+
+$("#file-browser").click(function(e) {
+  e.preventDefault();
+  $("#file-upload").trigger("click");
+});
+
+</script>
+
+<div class="footer-container">
+        <div class="footer_1">
+            <div class="footer_about_us">
+                <h2> Contributors </h2>
+                <a href="https://github.com/shivambmishra10" target="_blank" class="footer-user">
+                    <p>
+                        Shivam Mishra
+                    </p>
+                </a>
+                <a href="https://github.com/rameshchandrapola" target="_blank" class="footer-user">
+                    <p>
+                        Ramesh Chandra Pola
+                    </p>
+                </a>
+                <a href="https://github.com/JayYadav18" target="_blank" class="footer-user">
+                    <p>
+                        Jay yadav
+                    </p>
+                </a>
+            </div>
+            <div class="footer_options">
+                <h2>Translate document</h2>
+                <ui class="footer_options_list">
+                    <li>
+                        > English to Hindi
+                    </li>
+                    <li>
+                        > Hindi to English
+                    </li>
+                    <li>
+                        > English to Spanish
+                    </li>
+                    <li>
+                        > English to French
+                    </li>
+                </ui>
+            </div>
+        </div>
+
+            <div class="footer-copyright">
+                <p>
+                    &copy; 2022 DocyTrans - Made with <i class="fas fa-heart"></i> By Team Helper_404
+                </p>
+            </div>  
+    </div>
+
+</body>
+
+</html>

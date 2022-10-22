@@ -1,0 +1,220 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;}
+nav {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+  background: #bbadff;
+  height: 80px;
+  width: 100%;
+}
+.Nav_logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.Logo_name{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    font-weight: bold;
+}
+.Logo_img{
+    width: 60px;
+    height: 60px;  
+    padding: 0px;
+    margin: 10px;
+}
+nav ul {
+  float: right;
+  margin-right: 40px;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  font-weight: semi-bold;
+  margin: 0 5px;
+}
+nav ul li a {
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  
+}
+.checkbtn {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+  margin-left: 20px;
+}
+#check {
+  display: none;
+}
+@media (max-width: 952px) {
+  label.logo {
+    font-size: 30px;
+    padding-left: 50px;
+  }
+  nav ul li a {
+    font-size: 16px;
+  }
+}
+@media (max-width: 858px) {
+  .checkbtn {
+    display: block;
+  }
+  ul {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #757bc8;
+    top: 80px;
+    left: -100%;
+    text-align: center;
+    transition: all 0.5s;
+  }
+  nav ul li {
+    display: block;
+    margin: 50px 0;
+    line-height: 30px;
+  }
+  nav ul li a {
+    font-size: 20px;
+  }
+  a:hover,
+  a.active {
+    background: none;
+    color: #0082e6;
+  }
+  #check:checked ~ ul {
+    left: 0;
+  }
+}
+section {
+  background: url(/image.jpg) no-repeat;
+  background-size: cover;
+  height: calc(100vh - 80px);
+}
+
+.footer-container {
+  background-color: #8e94f2;
+  padding: 0 0 4rem 0;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  margin: 0 auto;
+}
+
+.footer_1 {
+  width: 90%;
+  height: 40vh;
+  font-family: "Courier New", Courier, monospace;
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+    align-items: space-between;
+    flex-direction: column;
+  margin: 0 auto;
+}
+.footer_about_us h2,
+.footer_options h2 {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.footer_about_us p,
+.footer_options li{
+    font-size: 20px;
+    color: rgb(80, 75, 75);
+    margin: 2px;
+    font-family: 'Playfair Display', serif;
+}
+.footer_about_us{
+    width: 300px;
+    height: 180px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-top: 50px;
+    flex-direction: column;
+}
+.footer-copyright{
+color: #000;
+font-size: 20px;
+font-weight: bold;
+margin: 10px;
+}
+.fa-heart{
+    color: red;
+    font-size: 25px;
+    margin: 5px;
+}
+.footer_options{
+   display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.footer_options h2 {
+    letter-spacing: 0px;
+}
+.footer_options li{
+    font-size:18px;
+    font-family: 'Mukta', sans-serif;
+}
+@media screen and (max-width: 1150px) {
+  .footer {
+    height: 50vh;
+  }
+  .footer_options{
+    display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+     margin-top: 50px;
+     margin-left: 5px;
+ }
+}
+
+@media screen and (max-width: 820px) {
+  .footer {
+    padding-top: 2rem;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .footer-email-form {
+    margin-top: 2rem;
+  }
+  .footer-copyright{
+      font-size: 15px;
+  }
+}
