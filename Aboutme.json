@@ -97,14 +97,14 @@
       "Info": "I'am student at K.K.Wagh Institute of Engineering, interested in tech."
     }
     {
-      "Name": "Raj Kuwar",
-      "Branch": "Computer",
-      "Info": "Learner"
-    },
-    {
       "Name":"Ishita jain",
       "Branch": "Artificial intelligence and Data science",
       "Info": "A 2nd year student at K.K.W.I.E.E.R. who is exploring in the techworld ,has a prior knowlegde of basics of python and SQL, and also do Sketching."
+    },
+    {
+      "Name": "Raj Kuwar",
+      "Branch": "Computer",
+      "Info": "Learner"
     },
   ]
 }
