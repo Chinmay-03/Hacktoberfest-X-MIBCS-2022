@@ -28,7 +28,7 @@
 - [pratiksha gite](https://github.com/Pratikshagite156)
 - [Krishna Patidar](https://github.com/krishna-p060)
 - [Soham19](https://github.com/soham-19)
-
+- [Ishita jain](https://github.com/ishj1311)
 
 
 
