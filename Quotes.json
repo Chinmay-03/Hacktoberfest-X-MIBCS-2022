@@ -96,10 +96,6 @@
       "Quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
     },
     {
-      "Quotee": "Buddha",
-      "Quote": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
-    },
-    {
       "Quotee": "Plato",
       "Quote": "Opinion is the medium between knowledge and ignorance."
     },
@@ -251,6 +247,10 @@
     {
       "Quotee": "-Robert Louis Stevenson",
       "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    },
+    {
+      "Quotee": "Buddha",
+      "Quote": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
     },
 
 
