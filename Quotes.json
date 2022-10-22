@@ -7,15 +7,23 @@
     
     {
       "Quotee": "Dhyan Chand",
-      "Quote": "It is not my country's duty to push me ahead. It is my duty to push my country ahead.",
+      "Quote": "It is not my country's duty to push me ahead. It is my duty to push my country ahead."
+    },
+    {
+      "Quotee":"A. P. J. Abdul Kalam",
+      "Quote": "Dream is not that which you see while sleeping it is something that does not let you sleep."
     },
     {
       "Quotee": "Mark Twain",
-      "Quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+      "Quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
     },
     {
       "Quotee": "Mahatma Gandhi",
       "Quote": "When restraint and courtesy are added to strength, the latter becomes irresistible"
+    },
+    {
+      "Quotee": "Elon Musk",
+      "Quote": "If something is important enough,even if the odds are against you,you should do it."
     },
      {
       "Quotee": "Ratan Tata",
@@ -25,7 +33,8 @@
 
       "Quotee": "Ratan Tata",
       "Quote": "I don't believe in taking right decisions. I take decisions and then make them right."
-},{
+    },
+    {
      "Quotee": "Hal Elrod",
      "Quote": "Remember, the moment you accept total responsibility for everything in your life is the moment you claim the power to change anything in your life." 
     },
@@ -180,8 +189,8 @@
     },
     {
 
-      "Quotee": 'Steve Jobs, Think Different ad'
-      "Quote": 'People who are crazy enough to think they can change the worlds, are the ones who do'
+      "Quotee": "Steve Jobs",
+      "Quote": "the only way to do great work is to love what you do"
       
     },
     {
@@ -202,26 +211,50 @@
       "Quotee": "Nightbirde",
       "Quote": "You can't wait until life isn't hard anymore before you decide to be happy."
     },
-
+    {
       "Quotee": "APJ. Abdul Kalam",
       "Quote": "Your future is created what you do today, not tomorrow."
     },
     {
-      "Quotee": 'Steve Jobs, Think Different ad'
-      "Quote": 'People who are crazy enough to think they can change the world, are the ones who do.'
+      "Quotee": "Steve Jobs, Think Different ad",
+      "Quote": "People who are crazy enough to think they can change the world, are the ones who do."
     },
     {
       "Quotee": "Cristiano Ronaldo",
-      "Quote": "Your LOVE makes me Strong, your HATE makes me UNSTOPPABLE",
+      "Quote": "Your LOVE makes me Strong, your HATE makes me UNSTOPPABLE"
     },
     {
       "Quotee": "Sheryl Sandberg",
-      "Quote": "Motivation comes from working on things we care about.",
+      "Quote": "Motivation comes from working on things we care about."
     },
-    {
+ {
       "Quotee": "Gautam Buddha",
       "Quote": "Give,even if you have a little"
+    }
+   { 
+     "Quotee": "Martin Luther King",
+     "Quote": "We must accept finite disappointment,but never lose infinite hope."
+   },
+
+    {
+      "Quotee": "Nelson Mandela",
+      "Quote": "I never lose. I either win or learn."
     },
+    {
+      "Quotee": "Les Brown",
+      "Quote": "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement."
+    },
+    {
+      "Quotee": "Theodore Roosevelt",
+      "Quote" : "Believe you can and you're halfway there." 
+    },
+    {
+      "Quotee": "-Robert Louis Stevenson",
+      "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    },
+
+
   ]
+
 
 }

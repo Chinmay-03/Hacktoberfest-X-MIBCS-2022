@@ -16,9 +16,10 @@
 
 ## Task 3
 ##### before proceeding sync your forks with main
-##### 3.a) - Include your favourite github repository in  [FavouriteREPO.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/FavouriteREPO.md) with the reason why you like it. _repetition not allowed and Addition should be at the end of file not at any other place_.
-##### 3.b) - Add the link of your favourite coding resource(video or/and website) [resource.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/resources.md). _repetition not allowed and Addition should be at the end of file not at any other place_
-##### 3.c) Post any useful message for others on the [discussion forum](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/discussions) of this repository 
+##### 3.a) Post any useful message for others on the [discussion forum](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/discussions) of this repository 
+##### 3.b) - Include your favourite github repository in  [FavouriteREPO.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/FavouriteREPO.md) with the reason why you like it. _repetition not allowed and Addition should be at the end of file not at any other place_. It must be a repository with aleast 100 stars
+##### 3.c) - Add the link of your favourite coding resource(video or/and website) [resource.md](https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022/blob/main/resources.md). _repetition not allowed and Addition should be at the end of file not at any other place_
+
 
 
 ## Task 4
