@@ -1,204 +1,267 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="index.css" />
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://kit.fontawesome.com/563a5c9304.js" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
-        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&display=swap" rel="stylesheet">
-    <title>Hactoberfest X MIBCS</title>
+    <script
+      src="https://kit.fontawesome.com/563a5c9304.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.min.js"
+      integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Hacktoberfest X MIBCS</title>
     <nav class="flex-row mx-10 my-12">
-        <a href="#" class="justify-center items-center flex logo">
-            <img class="code-gif" src="./images/code-nobg.gif" alt="code">
-            <p class="">hactoberfest</p>
-        </a>
-        <li class="justify-center items-center flex ml-auto">
-            <a class="interactable mx-2" href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">
-                <ul class="flex-row flex justify-center items-center"><img class="w-5 mr-0.5"
-                        src="./images/githublogo.png" alt="code">Githubrepo
-                </ul>
-            </a>
-            <a class="interactable mx-2" href="#">
-                <ul>About</ul>
-            </a>
-            <a class="interactable mx-2" href="#">
-                <ul>Instructions</ul>
-            </a>
-            <a class="interactable ml-2" href="#">
-                <ul>Blog</ul>
-            </a>
-        </li>
-    </nav>
-    <div id="mySidenav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fa-solid fa-xmark"></i></a>
-        <a class="interactable mx-2" href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">
-            Githubrepo
-
+      <a href="#" class="justify-center items-center flex logo">
+        <img class="code-gif" src="./images/code-nobg.gif" alt="code" />
+        <p class="">hacktoberfest</p>
+      </a>
+      <li class="justify-center items-center flex ml-auto">
+        <a
+          class="interactable mx-2"
+          href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+        >
+          <ul class="flex-row flex justify-center items-center">
+            <img
+              class="w-5 mr-0.5"
+              src="./images/githublogo.png"
+              alt="code"
+            />Githubrepo
+          </ul>
         </a>
         <a class="interactable mx-2" href="#">
+          <ul>
             About
+          </ul>
         </a>
         <a class="interactable mx-2" href="#">
+          <ul>
             Instructions
+          </ul>
         </a>
         <a class="interactable ml-2" href="#">
+          <ul>
             Blog
+          </ul>
         </a>
+      </li>
+    </nav>
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+        ><i class="fa-solid fa-xmark"></i
+      ></a>
+      <a
+        class="interactable mx-2"
+        href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+      >
+        Githubrepo
+      </a>
+      <a class="interactable mx-2" href="#"> About </a>
+      <a class="interactable mx-2" href="#"> Instructions </a>
+      <a class="interactable ml-2" href="#"> Blog </a>
     </div>
     <span class="sidenav-button" onclick="openNav()">&#9776;</span>
+  </head>
 
-</head>
-
-<body>
+  <body>
     <div id="trailer">
-        <i id="trailer-icon" class="fa-solid fa-arrow-pointer"></i>
+      <i id="trailer-icon" class="fa-solid fa-arrow-pointer"></i>
     </div>
     <section class="home">
-
-
-        <div class="justify-center items-center flex flex-col mt-20">
-            <div class="flex-row flex">
-                <h1 class="glow">Hact<br> <span id="oct">ober<br>fest </span>
-                </h1>
-                <h1 class="glow justify-center items-center flex px-2">X</h1>
-                <h1 class="glow justify-center items-center flex">MIBCS<br>2022</h1>
-            </div>
-            <div id="news-ticker">
-                <ul>
-                    <li>
-                        <a>01100011 01101111 01100100 01101001 01101110 01100111 00100000 01101001 01110011</a>
-                    </li>
-                    <li>
-                        <a>01100011 01101111 01100100 01101001 01101110 01100111 00100000 01101001 01110011</a>
-                    </li>
-                </ul>
-            </div>
-            <div id="info">
-                <a href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">
-                    <button class="interactable button" style="vertical-align:middle"><span><img class="w-5 mr-0.5"
-                                src="./images/githublogo.png" alt="code">Github Repo </span></button>
-                </a>
-            </div>
+      <div class="justify-center items-center flex flex-col mt-20">
+        <div class="flex-row flex">
+          <h1 class="glow">
+            Hack<br />
+            <span id="oct">tober<br />fest </span>
+          </h1>
+          <h1 class="glow justify-center items-center flex px-2">X</h1>
+          <h1 class="glow justify-center items-center flex">MIBCS<br />2022</h1>
         </div>
+        <div id="news-ticker">
+          <ul>
+            <li>
+              <a
+                >01100011 01101111 01100100 01101001 01101110 01100111 00100000
+                01101001 01110011</a
+              >
+            </li>
+            <li>
+              <a
+                >01100011 01101111 01100100 01101001 01101110 01100111 00100000
+                01101001 01110011</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="info">
+          <a href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+            <button class="interactable button" style="vertical-align: middle">
+              <span
+                ><img
+                  class="w-5 mr-0.5"
+                  src="./images/githublogo.png"
+                  alt="code"
+                />Github Repo
+              </span>
+            </button>
+          </a>
+        </div>
+      </div>
     </section>
 
     <section class="news mb-20">
-        <div class="scroll text-2">
-            <div>
-                JOIN THE <a class="interactable mx-2 underline" id="scroll-link"
-                    href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">REPO</a>, HACKER • JOIN THE
-                <a class="interactable mx-2 underline" id="scroll-link"
-                    href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">REPO</a>,
-                HACKER •&nbsp;
-            </div>
-            <div>
-                JOIN THE <a class="interactable mx-2 underline" id="scroll-link"
-                    href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">REPO</a>, HACKER • JOIN THE
-                <a class="interactable mx-2 underline" id="scroll-link"
-                    href="https://github.com/Chinmay-03/Hactoberfest-X-MIBCS-2022">REPO</a>,
-                HACKER •&nbsp;
-            </div>
+      <div class="scroll text-2">
+        <div>
+          JOIN THE
+          <a
+            class="interactable mx-2 underline"
+            id="scroll-link"
+            href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+            >REPO</a
+          >, HACKER • JOIN THE
+          <a
+            class="interactable mx-2 underline"
+            id="scroll-link"
+            href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+            >REPO</a
+          >, HACKER •&nbsp;
         </div>
-        <div class="scroll text-1">
-            <div>
-                HACT<span class="org">OBERFEST</span> x MIBCS 2022 • HACT<span class="org">OBERFEST</span> x MIBCS 2022
-                •&nbsp;
-            </div>
-            <div>
-                HACT<span class="org">OBERFEST</span> x MIBCS 2022 • HACT<span class="org">OBERFEST</span> x MIBCS 2022
-                •&nbsp;
-            </div>
+        <div>
+          JOIN THE
+          <a
+            class="interactable mx-2 underline"
+            id="scroll-link"
+            href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+            >REPO</a
+          >, HACKER • JOIN THE
+          <a
+            class="interactable mx-2 underline"
+            id="scroll-link"
+            href="https://github.com/Chinmay-03/Hacktoberfest-X-MIBCS-2022"
+            >REPO</a
+          >, HACKER •&nbsp;
         </div>
+      </div>
+      <div class="scroll text-1">
+        <div>
+          HACKT<span class="org">OBERFEST</span> X MIBCS 2022 • HACKT<span
+            class="org"
+            >OBERFEST</span
+          >
+          x MIBCS 2022 •&nbsp;
+        </div>
+        <div>
+          HACKT<span class="org">OBERFEST</span> X MIBCS 2022 • HACKT<span
+            class="org"
+            >OBERFEST</span
+          >
+          x MIBCS 2022 •&nbsp;
+        </div>
+      </div>
     </section>
+
+    <div class="scroll text-1">
+        <div>
+          HACKT<span class="org">OBERFEST</span> X MIBCS 2022 • HACKT<span
+            class="org"
+            >OBERFEST</span
+          >
+          x MIBCS 2022 •&nbsp;
+        </div>
+
     <!-- <img src="./images/stars.gif" alt="stars"> -->
     <footer class="panel-footer">
-        <p>Footer</p>
+      <p>Footer</p>
     </footer>
-
-</body>
-<script>
+  </body>
+  <script>
     const trailer = document.getElementById("trailer");
 
     const animateTrailer = (e, interacting) => {
-        const x = e.clientX - trailer.offsetWidth / 2,
-            y = e.clientY - trailer.offsetHeight / 2;
+      const x = e.clientX - trailer.offsetWidth / 2,
+        y = e.clientY - trailer.offsetHeight / 2;
 
-        const keyframes = {
-            transform: `translate(${x}px, ${y}px) scale(${interacting ? 2 : 1})`
-        }
+      const keyframes = {
+        transform: `translate(${x}px, ${y}px) scale(${interacting ? 2 : 1})`,
+      };
 
-        trailer.animate(keyframes, {
-            duration: 800,
-            fill: "forwards"
-        });
-    }
+      trailer.animate(keyframes, {
+        duration: 800,
+        fill: "forwards",
+      });
+    };
 
-    const getTrailerClass = type => {
-        switch (type) {
-            case "video":
-                return "fa-solid fa-play";
-            default:
-                return "fa-solid fa-arrow-pointer";
-        }
-    }
+    const getTrailerClass = (type) => {
+      switch (type) {
+        case "video":
+          return "fa-solid fa-play";
+        default:
+          return "fa-solid fa-arrow-pointer";
+      }
+    };
 
-    window.onmousemove = e => {
-        const interactable = e.target.closest(".interactable"),
-            interacting = interactable !== null;
+    window.onmousemove = (e) => {
+      const interactable = e.target.closest(".interactable"),
+        interacting = interactable !== null;
 
-        const icon = document.getElementById("trailer-icon");
+      const icon = document.getElementById("trailer-icon");
 
-        animateTrailer(e, interacting);
+      animateTrailer(e, interacting);
 
-        trailer.dataset.type = interacting ? interactable.dataset.type : "";
+      trailer.dataset.type = interacting ? interactable.dataset.type : "";
 
-        if (interacting) {
-            icon.className = getTrailerClass(interactable.dataset.type);
-        }
-    }
-</script>
-<script>
+      if (interacting) {
+        icon.className = getTrailerClass(interactable.dataset.type);
+      }
+    };
+  </script>
+  <script>
     $(function () {
-        var $ticker = $('#news-ticker'),
-            $first = $('li:first-child', $ticker);
+      var $ticker = $("#news-ticker"),
+        $first = $("li:first-child", $ticker);
 
-        // put an empty space between each letter so we can 
-        // use break word
-        $('a', $ticker).each(function () {
-            var $this = $(this),
-                text = $this.text();
-            $this.html(text.split('').join('&#8203;'));
-        });
+      // put an empty space between each letter so we can
+      // use break word
+      $("a", $ticker).each(function () {
+        var $this = $(this),
+          text = $this.text();
+        $this.html(text.split("").join("&#8203;"));
+      });
 
-        // begin the animation
-        function tick($el) {
-            $el.addClass('tick')
-                .on('webkitAnimationEnd oanimationend msAnimationEnd animationend', function () {
+      // begin the animation
+      function tick($el) {
+        $el
+          .addClass("tick")
+          .on(
+            "webkitAnimationEnd oanimationend msAnimationEnd animationend",
+            function () {
+              $el.removeClass("tick");
+              var $next = $el.next("li");
+              $next = $next.length > 0 ? $next : $first;
+              tick($next);
+            }
+          );
+      }
 
-                    $el.removeClass('tick');
-                    var $next = $el.next('li');
-                    $next = $next.length > 0 ? $next : $first;
-                    tick($next);
-                });
-        }
-
-        tick($first);
-
+      tick($first);
     });
-</script>
-<script>
+  </script>
+  <script>
     function openNav() {
-        document.getElementById("mySidenav").style.width = "50%";
+      document.getElementById("mySidenav").style.width = "50%";
     }
 
     function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
+      document.getElementById("mySidenav").style.width = "0";
     }
-</script>
-
+  </script>
 </html>
