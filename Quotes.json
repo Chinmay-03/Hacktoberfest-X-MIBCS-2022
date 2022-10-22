@@ -234,12 +234,17 @@
     },
     {
       "Quotee": "Les Brown",
-      "Quote": "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement.",
+      "Quote": "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement."
+    },
+    {
+      "Quotee": "Theodore Roosevelt",
+      "Quote" : "Believe you can and you're halfway there." 
     },
     {
       "Quotee": "-Robert Louis Stevenson",
       "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
     },
+
 
   ]
 
