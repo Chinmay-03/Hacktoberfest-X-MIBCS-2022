@@ -25,8 +25,10 @@
 - [Satyabrat Ojha](https://github.com/Satyabrat-Ojha)
 - [Nabhi Agrawal](https://github.com/NabhiA)
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
+- [pratiksha gite](https://github.com/Pratikshagite156)
 - [Krishna Patidar](https://github.com/krishna-p060)
 - [Soham19](https://github.com/soham-19)
+
 
 
 
