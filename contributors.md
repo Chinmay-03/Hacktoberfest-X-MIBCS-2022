@@ -29,6 +29,7 @@
 - [Satyarohan Prakash](https://github.com/ExtremeSatya)
 - [Krishna Patidar](https://github.com/krishna-p060)
 - [Soham19](https://github.com/soham-19)
+- [Sanchita Weljali](https://github.com/SanchitaWeljali)
 
 
 
