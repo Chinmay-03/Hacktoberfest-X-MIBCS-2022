@@ -12,13 +12,13 @@ cv2.imshow('gray image', gray)
 cv2.waitKey(0)
 #print(cv2.minMaxLoc(gray))
 # (6.0, 248.0, (599, 13), (315, 461))
-x_coordinate=cv2.minMaxLoc(gray)[3][2]
+x_coordinate=cv2.minMaxLoc(gray)[3][0]
 y_coordinate=cv2.minMaxLoc(gray)[3][1]
 print("The Coordinates of the brightest point are " ,x_coordinate,y_coordinate)
 
 # To plot the rectangle around the brightest point
 s=20
-coordinate1=(x_coordinate-s,y_coordinate+s)
+coordinate1=(x_coordinate+s,y_coordinate+s)
 coordinate2=(x_coordinate-s,y_coordinate-s)
 color=((50,205,50))
 t=5
