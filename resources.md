@@ -14,3 +14,4 @@ DSA-450 | https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 Ethereum | https://github.com/RakshaAage/Ethereum  | A Ethereum-Blockchain website along with smart contract programs. 
 c4learn.com|https://www.c4learn.com/c-programs/| This website gives the beginner to solve many more problems .
 react js | https://github.com/vercel/next.js | react-js repo very usefull for coders
+Web Development | https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg | This is a perfect resource for anyone who wants to learn web development in HTML, CSS & JS.
