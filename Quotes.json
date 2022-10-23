@@ -252,7 +252,10 @@
       "Quotee": "-Robert Louis Stevenson",
       "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
     },
-
+    {
+      "Quotee" : "-",
+      "Quote": "The evil you do remains with you, the good you do comes back to you"
+    }
 
   ]
 
