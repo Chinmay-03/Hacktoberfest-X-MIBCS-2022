@@ -1,5 +1,11 @@
 # <h1 align="center">**Hactoberfest-X-MIBCS-2022**</h1>
-
+<p align="center">
+    <img src="https://img.shields.io/github/issues/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+    <img src="https://img.shields.io/github/issues-pr/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+    <img src="https://img.shields.io/github/forks/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+    <img src="https://img.shields.io/github/stars/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+    <img src="https://img.shields.io/github/license/Chinmay-03/Hacktoberfest-X-MIBCS-2022">
+</p>
 
 #### <p><i>Hactoberfest X MIBCS</i> 2022 is a repository for students to contribute to open source projects within the campus or any on the internet</p>
 <p align="center">
@@ -11,6 +17,17 @@
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! 
+
+## ⭐ How to get started with open source?
+<img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
+
+You can refer to the following articles on the basics of Git and Github.
+
+- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SYtPC9tHYyQ)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ### How to contribute:
  - Either direclty edit the code on github by clicking the pen icon
