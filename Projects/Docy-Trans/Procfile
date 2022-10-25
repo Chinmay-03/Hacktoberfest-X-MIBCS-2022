@@ -1,0 +1,1 @@
+web: cd src/backend && node bin/www.js
