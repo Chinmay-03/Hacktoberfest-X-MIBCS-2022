@@ -263,6 +263,10 @@
     {
       "Quotee" : "Ralph Waldo Emerson",
       "Quote"  :"What lies behind you and what lies in front of you pales in comparison to what lies inside of you."
+    },
+    {
+      "Quotee" : "Che Guevara",
+      "Quote": "We cannot be sure of having something to live for unless we are willing to die for it."
     }
 
   ]
