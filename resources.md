@@ -17,4 +17,4 @@ react js | https://github.com/vercel/next.js | react-js repo very usefull for co
 Web Development | https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg | This is a perfect resource for anyone who wants to learn web development in HTML, CSS & JS.
 Bootstrap | https://github.com/twbs/bootstrap | Best Web design framework for web developers.
 Web Development | https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n | This playlist has all the required information for learning web development.
-Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) | https://youtu.be/zJSY8tbf_ys |In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way. 
+Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) | https://youtu.be/zJSY8tbf_ys |In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer.
