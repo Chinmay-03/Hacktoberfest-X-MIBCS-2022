@@ -3,6 +3,7 @@
 ## [Chinmay Kotkar](https://github.com/Chinmay-03)
 
 - [therajkuwar](https://github.com/therajkuwar)
+- [ishika] (https://github.com/09ishika)
 - [komal Attarde](https://github.com/komala1)
 - [Niyatipatil](https://github.com/Niyatipatil)
 - [KhairnarTejas](https://github.com/KhairnarTejas)
