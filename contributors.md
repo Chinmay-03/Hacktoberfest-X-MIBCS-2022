@@ -2,6 +2,7 @@
 
 ## [Chinmay Kotkar](https://github.com/Chinmay-03)
 - [mayank] (https://github.com/mayankmj)
+- [chinnmay King](https://github.com/mayankmj)
 - [therajkuwar](https://github.com/therajkuwar)
 - [komal Attarde](https://github.com/komala1)
 - [Niyatipatil](https://github.com/Niyatipatil)
