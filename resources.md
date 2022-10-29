@@ -18,3 +18,4 @@ Web Development | https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxk
 Bootstrap | https://github.com/twbs/bootstrap | Best Web design framework for web developers.
 Web Development | https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n | This playlist has all the required information for learning web development.
 Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) | https://youtu.be/zJSY8tbf_ys |In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer.
+PHP Programming Language Tutorial - Full Course | https://youtu.be/OK_JCtrrv-c | Learn the PHP programming language in this full course / tutorial. The course is designed for new programmers, and will introduce common programming topics using the PHP language.
