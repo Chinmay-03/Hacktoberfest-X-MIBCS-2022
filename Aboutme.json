@@ -11,10 +11,6 @@
       "Info": "i'm just starting my open source journey and very excited to contribute to more potential projects."
     },
     {
-      "Name": "Soham",
-      "Branch": "computer",
-      "Info": "in second yr , coding"
-    },
     {
       "Name": "Vedarth Khandve",
       "Branch": "AI&DS",
@@ -130,6 +126,11 @@
       "Name": "Santhosh Sudhaan N G",
       "Branch": "Information Technology",
       "Info" : "Tech Enthusiast, Passionate about coding.. Getting a deep dive into Web Development and Problem Solving"
+    },
+    {
+      "Name": "Soham K",
+      "Branch": "Computer Engineering",
+      "Info" : "I like to learn new technologies"
     }
   ]
 }
