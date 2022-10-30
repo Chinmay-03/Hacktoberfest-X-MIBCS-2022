@@ -19,3 +19,4 @@ Bootstrap | https://github.com/twbs/bootstrap | Best Web design framework for we
 DevOps Bootcamp | https://github.com/kunal-kushwaha/DevOps-Bootcamp | This repository contains all the required information for DevOps.
 Airbnb JavaScript Style Guide | https://github.com/airbnb/javascript | This repo is the ultimate styling guide for javascript learners.
 TheAlgorithms/C++ | https://github.com/TheAlgorithms/C-Plus-Plus | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+jquery | https://github.com/jquery/jquery | This repo contains all required info of jquery
