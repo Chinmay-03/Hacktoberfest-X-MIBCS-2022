@@ -1,7 +1,7 @@
 # Contributors
 
 ## [Chinmay Kotkar](https://github.com/Chinmay-03)
-
+- [PawarSakshi](https://github.com/PawarSakshi)
 - [therajkuwar](https://github.com/therajkuwar)
 - [komal Attarde](https://github.com/komala1)
 - [Niyatipatil](https://github.com/Niyatipatil)
