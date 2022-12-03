@@ -21,3 +21,4 @@ Airbnb JavaScript Style Guide | https://github.com/airbnb/javascript | This repo
 TheAlgorithms/C++ | https://github.com/TheAlgorithms/C-Plus-Plus | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 jquery | https://github.com/jquery/jquery | This repo contains all required info of jquery
 getify | https://github.com/getify/getify.github.io | You Don’t Know JavaScript is without a doubt the unofficial reference book for the freeCodeCamp community. 
+getify | https://github.com/getify/getify.github.io | You Don’t Know JavaScript is without a doubt the unofficial reference book for the freeCodeCamp community. 
