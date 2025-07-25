@@ -241,7 +241,7 @@
  {
       "Quotee": "Gautam Buddha",
       "Quote": "Give,even if you have a little"
-    }
+    },
    { 
      "Quotee": "Martin Luther King",
      "Quote": "We must accept finite disappointment,but never lose infinite hope."
@@ -278,6 +278,10 @@
     {
       "Quotee" : "Che Guevara",
       "Quote": "We cannot be sure of having something to live for unless we are willing to die for it."
+    },
+    {
+      "Quotee" : "Dalai Lama",
+      "Quote" : "Just one small postitve thought in the morning can change your whole day."
     }
 
   ]
