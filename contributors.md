@@ -20,6 +20,7 @@
 - [Saiesh Agre](https://github.com/Saiesh-Agre)
 - [Vishal-Borse](https://github.com/Vishal-Borse)
 - [Deshna Shah](https://github.com/Deshnashah27)
+- [Sudhanshu Raj](https://github.com/sudhanshuraj13)
 - [Nqabenhle](https://github.com/nqabenhle)
 - [Darshan Kedare](https://github.com/Darshk03)
 - [Harshit Shukla](https://github.com/Harshit-2112)
@@ -37,6 +38,7 @@
 - [Jayasurya K](https://github.com/jayasurya7a)
 - [Sanchita Weljali](https://github.com/SanchitaWeljali)
 - [abhay rana](https://github.com/blurryface18o7)
+- [Sudhanshu Raj](https://github.com/sudhanshuraj13)
 
 
 
